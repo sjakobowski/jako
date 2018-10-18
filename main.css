@@ -1,5 +1,6 @@
 body {
-}
+background:blue}
+font-color
 
 #myName {
     font-size: 36px;
@@ -8,5 +9,6 @@ body {
 .headers {
     font-family: impact;
     text-align: center;
-
-}
+font:red}
+    
+    
